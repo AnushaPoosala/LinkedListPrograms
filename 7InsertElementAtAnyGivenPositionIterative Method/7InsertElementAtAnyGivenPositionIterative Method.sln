@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7InsertElementAtAnyGivenPositionIterative Method", "7InsertElementAtAnyGivenPositionIterative Method.csproj", "{B5B7454E-F175-4CEE-847D-A17AA24ECABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5B7454E-F175-4CEE-847D-A17AA24ECABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B7454E-F175-4CEE-847D-A17AA24ECABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B7454E-F175-4CEE-847D-A17AA24ECABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B7454E-F175-4CEE-847D-A17AA24ECABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60816D09-97A2-42B9-9E33-8AC855AF1351}
+	EndGlobalSection
+EndGlobal
