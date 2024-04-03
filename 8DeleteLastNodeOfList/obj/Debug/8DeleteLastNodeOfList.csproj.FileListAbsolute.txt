@@ -1,0 +1,7 @@
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\8DeleteLastNodeOfList\bin\Debug\8DeleteLastNodeOfList.exe.config
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\8DeleteLastNodeOfList\bin\Debug\8DeleteLastNodeOfList.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\8DeleteLastNodeOfList\bin\Debug\8DeleteLastNodeOfList.pdb
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\8DeleteLastNodeOfList\obj\Debug\8DeleteLastNodeOfList.csproj.AssemblyReference.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\8DeleteLastNodeOfList\obj\Debug\8DeleteLastNodeOfList.csproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\8DeleteLastNodeOfList\obj\Debug\8DeleteLastNodeOfList.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\8DeleteLastNodeOfList\obj\Debug\8DeleteLastNodeOfList.pdb
