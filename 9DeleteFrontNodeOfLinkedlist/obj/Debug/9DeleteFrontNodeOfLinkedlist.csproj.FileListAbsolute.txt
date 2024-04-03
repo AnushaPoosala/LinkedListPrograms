@@ -1,0 +1,7 @@
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\9DeleteFrontNodeOfLinkedlist\bin\Debug\9DeleteFrontNodeOfLinkedlist.exe.config
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\9DeleteFrontNodeOfLinkedlist\bin\Debug\9DeleteFrontNodeOfLinkedlist.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\9DeleteFrontNodeOfLinkedlist\bin\Debug\9DeleteFrontNodeOfLinkedlist.pdb
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\9DeleteFrontNodeOfLinkedlist\obj\Debug\9DeleteFrontNodeOfLinkedlist.csproj.AssemblyReference.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\9DeleteFrontNodeOfLinkedlist\obj\Debug\9DeleteFrontNodeOfLinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\9DeleteFrontNodeOfLinkedlist\obj\Debug\9DeleteFrontNodeOfLinkedlist.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\9DeleteFrontNodeOfLinkedlist\obj\Debug\9DeleteFrontNodeOfLinkedlist.pdb
