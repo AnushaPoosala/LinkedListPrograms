@@ -1,0 +1,7 @@
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\30GetKthNodeFromLinkedList\bin\Debug\30GetKthNodeFromLinkedList.exe.config
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\30GetKthNodeFromLinkedList\bin\Debug\30GetKthNodeFromLinkedList.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\30GetKthNodeFromLinkedList\bin\Debug\30GetKthNodeFromLinkedList.pdb
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\30GetKthNodeFromLinkedList\obj\Debug\30GetKthNodeFromLinkedList.csproj.AssemblyReference.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\30GetKthNodeFromLinkedList\obj\Debug\30GetKthNodeFromLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\30GetKthNodeFromLinkedList\obj\Debug\30GetKthNodeFromLinkedList.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\30GetKthNodeFromLinkedList\obj\Debug\30GetKthNodeFromLinkedList.pdb
