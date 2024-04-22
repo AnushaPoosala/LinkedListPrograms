@@ -1,0 +1,7 @@
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\37Check if linked list is Palindrome\bin\Debug\37Check if linked list is Palindrome.exe.config
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\37Check if linked list is Palindrome\bin\Debug\37Check if linked list is Palindrome.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\37Check if linked list is Palindrome\bin\Debug\37Check if linked list is Palindrome.pdb
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\37Check if linked list is Palindrome\obj\Debug\37Check if linked list is Palindrome.csproj.AssemblyReference.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\37Check if linked list is Palindrome\obj\Debug\37Check if linked list is Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\37Check if linked list is Palindrome\obj\Debug\37Check if linked list is Palindrome.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\37Check if linked list is Palindrome\obj\Debug\37Check if linked list is Palindrome.pdb
