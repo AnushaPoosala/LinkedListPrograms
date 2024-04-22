@@ -1,0 +1,7 @@
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\39Delete nodes which have greater values on the right\obj\Debug\39Delete nodes which have greater values on the right.csproj.AssemblyReference.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\39Delete nodes which have greater values on the right\obj\Debug\39Delete nodes which have greater values on the right.csproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\39Delete nodes which have greater values on the right\bin\Debug\39Delete nodes which have greater values on the right.exe.config
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\39Delete nodes which have greater values on the right\bin\Debug\39Delete nodes which have greater values on the right.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\39Delete nodes which have greater values on the right\bin\Debug\39Delete nodes which have greater values on the right.pdb
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\39Delete nodes which have greater values on the right\obj\Debug\39Delete nodes which have greater values on the right.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\39Delete nodes which have greater values on the right\obj\Debug\39Delete nodes which have greater values on the right.pdb
