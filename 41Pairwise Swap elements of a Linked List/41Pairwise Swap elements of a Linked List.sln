@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41Pairwise Swap elements of a Linked List", "41Pairwise Swap elements of a Linked List.csproj", "{DC33B9CE-0C9B-456F-9761-E46F450FF311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC33B9CE-0C9B-456F-9761-E46F450FF311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC33B9CE-0C9B-456F-9761-E46F450FF311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC33B9CE-0C9B-456F-9761-E46F450FF311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC33B9CE-0C9B-456F-9761-E46F450FF311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4015458-53DE-4C14-923A-C9E756F4E0F7}
+	EndGlobalSection
+EndGlobal
