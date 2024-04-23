@@ -1,0 +1,7 @@
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\42Delete alternate nodes in Linked List\bin\Debug\42Delete alternate nodes in Linked List.exe.config
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\42Delete alternate nodes in Linked List\bin\Debug\42Delete alternate nodes in Linked List.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\42Delete alternate nodes in Linked List\bin\Debug\42Delete alternate nodes in Linked List.pdb
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\42Delete alternate nodes in Linked List\obj\Debug\42Delete alternate nodes in Linked List.csproj.AssemblyReference.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\42Delete alternate nodes in Linked List\obj\Debug\42Delete alternate nodes in Linked List.csproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\42Delete alternate nodes in Linked List\obj\Debug\42Delete alternate nodes in Linked List.exe
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\3.LinkedlistPrograms\42Delete alternate nodes in Linked List\obj\Debug\42Delete alternate nodes in Linked List.pdb
